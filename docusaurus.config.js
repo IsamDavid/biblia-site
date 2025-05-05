@@ -7,11 +7,10 @@ const config = {
   tagline: 'Notas personales organizadas por libro y capítulo',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-username.github.io',
-  baseUrl: '/',
-
-  organizationName: 'your-username', // Reemplázalo si vas a publicar en GitHub
-  projectName: 'biblia-site',        // Reemplázalo si vas a publicar en GitHub
+  url: 'https://IsamDavid.github.io',
+  baseUrl: '/biblia-site/',
+  organizationName: 'IsamDavid',
+  projectName: 'biblia-site',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbiblia_site=self.webpackChunkbiblia_site||[]).push([[634],{9179:(e,s,i)=>{i.r(s),i.d(s,{default:()=>r});i(6540);var t=i(6347),a=i(4848);function r(){return(0,a.jsx)(t.rd,{to:"/docs/Santiago/someterse_a_Dios"})}}}]);

@@ -8,6 +8,7 @@ const sidebars = {
         'Santiago/juzgar_buenas_obras',
         'Santiago/cuida_tu_lengua',
         'Santiago/someterse_a_Dios',
+        'Santiago/paciencia-comunidad',
       ],
     },
     {
